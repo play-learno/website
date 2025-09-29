@@ -1,0 +1,117 @@
+2025-09-29T20:44:12.394586Z  INFO tailwindcss_oxide::scanner: Provided sources:
+2025-09-29T20:44:12.394765Z  INFO tailwindcss_oxide::scanner: Source: PublicSourceEntry { base: "/Users/rajshah/repo/play-learno/website", pattern: "**/*", negated: false }
+2025-09-29T20:44:12.395017Z  INFO tailwindcss_oxide::scanner: Optimized sources:
+2025-09-29T20:44:12.395023Z  INFO tailwindcss_oxide::scanner: Source: Auto { base: "/Users/rajshah/repo/play-learno/website" }
+2025-09-29T20:44:12.397480Z  INFO scan_sources: tailwindcss_oxide::scanner: enter
+2025-09-29T20:44:12.398358Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/postcss.config.mjs"
+2025-09-29T20:44:12.398535Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/SEO_ENHANCEMENT.md"
+2025-09-29T20:44:12.398551Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/README.md"
+2025-09-29T20:44:12.398570Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/public"
+2025-09-29T20:44:12.398598Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/public/file.svg"
+2025-09-29T20:44:12.398611Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/public/site.webmanifest"
+2025-09-29T20:44:12.398624Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/public/vercel.svg"
+2025-09-29T20:44:12.398635Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/public/next.svg"
+2025-09-29T20:44:12.398645Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/public/globe.svg"
+2025-09-29T20:44:12.398655Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/public/window.svg"
+2025-09-29T20:44:12.398677Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/package.json"
+2025-09-29T20:44:12.398695Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/.github"
+2025-09-29T20:44:12.398734Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/.github/instructions"
+2025-09-29T20:44:12.398758Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/.github/instructions/copilot-instructions.md"
+2025-09-29T20:44:12.398785Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/.github/prompts"
+2025-09-29T20:44:12.398811Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/tsconfig.json"
+2025-09-29T20:44:12.398852Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/.vscode"
+2025-09-29T20:44:12.398873Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/.vscode/settings.json"
+2025-09-29T20:44:12.398885Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/eslint.config.mjs"
+2025-09-29T20:44:12.398895Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/next.config.ts"
+2025-09-29T20:44:12.398911Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src"
+2025-09-29T20:44:12.398935Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/app"
+2025-09-29T20:44:12.398955Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/app/robots.ts"
+2025-09-29T20:44:12.398966Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/app/sitemap.ts"
+2025-09-29T20:44:12.398977Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/app/layout.tsx"
+2025-09-29T20:44:12.398993Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/app/page.tsx"
+2025-09-29T20:44:12.399002Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/app/globals.css"
+2025-09-29T20:44:12.399020Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/utils"
+2025-09-29T20:44:12.399040Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/utils/seo.ts"
+2025-09-29T20:44:12.399056Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/components"
+2025-09-29T20:44:12.399079Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/components/JsonLd.tsx"
+2025-09-29T20:44:12.399088Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/components/SocialLinks.tsx"
+2025-09-29T20:44:12.399096Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/components/Analytics.tsx"
+2025-09-29T20:44:12.399105Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/components/MainContent.tsx"
+2025-09-29T20:44:12.399113Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/components/EmailSignup.tsx"
+2025-09-29T20:44:12.399121Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/components/HeroSection.tsx"
+2025-09-29T20:44:12.399130Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/components/BackgroundElements.tsx"
+2025-09-29T20:44:12.399140Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/components/index.ts"
+2025-09-29T20:44:12.399149Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/components/FeatureCard.tsx"
+2025-09-29T20:44:12.399195Z  INFO scan_sources: tailwindcss_oxide::scanner: exit
+2025-09-29T20:44:12.399199Z  INFO extract_candidates: tailwindcss_oxide::scanner: enter
+2025-09-29T20:44:12.399202Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2025-09-29T20:44:12.399204Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 29 file(s)
+2025-09-29T20:44:12.399331Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/next.config.ts"
+2025-09-29T20:44:12.399331Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/src/components/SocialLinks.tsx"
+2025-09-29T20:44:12.399333Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/postcss.config.mjs"
+2025-09-29T20:44:12.399361Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/src/components/index.ts"
+2025-09-29T20:44:12.399371Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/src/app/robots.ts"
+2025-09-29T20:44:12.399372Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/src/components/Analytics.tsx"
+2025-09-29T20:44:12.399395Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/src/app/sitemap.ts"
+2025-09-29T20:44:12.399342Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/src/components/HeroSection.tsx"
+2025-09-29T20:44:12.399406Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/src/components/MainContent.tsx"
+2025-09-29T20:44:12.399454Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/src/app/layout.tsx"
+2025-09-29T20:44:12.399460Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/src/components/BackgroundElements.tsx"
+2025-09-29T20:44:12.399408Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/src/components/FeatureCard.tsx"
+2025-09-29T20:44:12.399467Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/src/components/EmailSignup.tsx"
+2025-09-29T20:44:12.399485Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/src/utils/seo.ts"
+2025-09-29T20:44:12.399474Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/src/app/page.tsx"
+2025-09-29T20:44:12.399499Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/src/components/JsonLd.tsx"
+2025-09-29T20:44:12.399500Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/README.md"
+2025-09-29T20:44:12.399509Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/.vscode/settings.json"
+2025-09-29T20:44:12.399516Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/eslint.config.mjs"
+2025-09-29T20:44:12.399517Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/tsconfig.json"
+2025-09-29T20:44:12.399536Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/package.json"
+2025-09-29T20:44:12.399601Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/public/site.webmanifest"
+2025-09-29T20:44:12.399532Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/SEO_ENHANCEMENT.md"
+2025-09-29T20:44:12.399545Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/public/file.svg"
+2025-09-29T20:44:12.399618Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/public/globe.svg"
+2025-09-29T20:44:12.399618Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/public/window.svg"
+2025-09-29T20:44:12.399693Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/.github/instructions/copilot-instructions.md"
+2025-09-29T20:44:12.400062Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/public/next.svg"
+2025-09-29T20:44:12.400074Z  INFO tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/public/vercel.svg"
+2025-09-29T20:44:12.400147Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2025-09-29T20:44:12.400154Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: enter
+2025-09-29T20:44:12.400157Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: enter
+2025-09-29T20:44:12.400646Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: exit
+2025-09-29T20:44:12.400653Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: exit
+2025-09-29T20:44:12.400656Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2025-09-29T20:44:12.400659Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 1 file(s)
+2025-09-29T20:44:12.400679Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading "/Users/rajshah/repo/play-learno/website/src/app/globals.css"
+2025-09-29T20:44:12.400684Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2025-09-29T20:44:12.400686Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: enter
+2025-09-29T20:44:12.400689Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: enter
+2025-09-29T20:44:12.400768Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: exit
+2025-09-29T20:44:12.400773Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: exit
+2025-09-29T20:44:12.401006Z  INFO extract_candidates: tailwindcss_oxide::scanner: exit
+2025-09-29T20:44:12.401315Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2025-09-29T20:44:12.401325Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: enter
+2025-09-29T20:44:12.401750Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/public"
+2025-09-29T20:44:12.401835Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/.github"
+2025-09-29T20:44:12.401868Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/.github/instructions"
+2025-09-29T20:44:12.401898Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/.github/prompts"
+2025-09-29T20:44:12.401950Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/.vscode"
+2025-09-29T20:44:12.401986Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src"
+2025-09-29T20:44:12.402009Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/app"
+2025-09-29T20:44:12.402055Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/utils"
+2025-09-29T20:44:12.402083Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/components"
+2025-09-29T20:44:12.402164Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: exit
+2025-09-29T20:44:12.402232Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2025-09-29T20:44:12.402298Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2025-09-29T20:44:12.402302Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: enter
+2025-09-29T20:44:12.402656Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/public"
+2025-09-29T20:44:12.402727Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/.github"
+2025-09-29T20:44:12.402750Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/.github/instructions"
+2025-09-29T20:44:12.402779Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/.github/prompts"
+2025-09-29T20:44:12.402827Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/.vscode"
+2025-09-29T20:44:12.402860Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src"
+2025-09-29T20:44:12.402881Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/app"
+2025-09-29T20:44:12.402927Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/utils"
+2025-09-29T20:44:12.402954Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "/Users/rajshah/repo/play-learno/website/src/components"
+2025-09-29T20:44:12.403030Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: exit
+2025-09-29T20:44:12.404021Z  INFO get_globs: tailwindcss_oxide::scanner: exit
