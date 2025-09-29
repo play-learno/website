@@ -44,7 +44,7 @@ export default function SocialLinks() {
       <div className="flex justify-center lg:justify-start space-x-4">
         {/* Instagram */}
         <SocialLink
-          href="https://instagram.com"
+          href="https://instagram.com/play.learno"
           bgGradient="bg-gradient-to-br from-pink-400/30 to-blue-400/30"
           hoverGradient="group-hover:bg-gradient-to-br group-hover:from-pink-400/50 group-hover:to-blue-400/50"
           iconColor="text-pink-600"
@@ -56,7 +56,7 @@ export default function SocialLinks() {
 
         {/* YouTube */}
         <SocialLink
-          href="https://youtube.com"
+          href="https://youtube.com/playlearno"
           bgGradient="bg-gradient-to-br from-blue-400/30 to-pink-400/30"
           hoverGradient="group-hover:bg-gradient-to-br group-hover:from-blue-400/50 group-hover:to-pink-400/50"
           iconColor="text-blue-600"
