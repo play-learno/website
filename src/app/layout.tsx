@@ -51,8 +51,8 @@ export const viewport: Viewport = {
   maximumScale: 5,
   userScalable: true,
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#10b981" },
-    { media: "(prefers-color-scheme: dark)", color: "#059669" },
+    { media: "(prefers-color-scheme: light)", color: "#f97316" },
+    { media: "(prefers-color-scheme: dark)", color: "#ea580c" },
   ],
   colorScheme: "light",
 };
@@ -87,8 +87,8 @@ export default function RootLayout({
           sizes="16x16"
           href="/favicon-16x16.png"
         />
-        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#10b981" />
-        <meta name="msapplication-TileColor" content="#10b981" />
+        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#f97316" />
+        <meta name="msapplication-TileColor" content="#f97316" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
         <meta name="apple-mobile-web-app-title" content="Play Learno" />

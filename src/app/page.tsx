@@ -5,25 +5,27 @@ import { generateMetadata } from "@/utils/seo";
 
 export const metadata: Metadata = generateMetadata({
   title:
-    "Play Learno - Coming Soon | Educational Books & Learning Adventures for Kids",
+    "Play Learno - Coming Soon | Magical Educational Books for Kids Aged 2-6",
   description:
-    "🌟 Something amazing is coming! Play Learno is crafting thoughtful educational books and interactive learning adventures for children aged 2-6. Join our waitlist to be the first to discover stories designed with child development in mind. Early childhood education made engaging and fun! 📖",
+    "� Something magical is coming! Play Learno is creating delightful educational books and interactive learning adventures for children aged 2-6. Join our adventure and be the first to discover stories designed to spark imagination and learning! �✨",
   keywords: [
     "children books coming soon",
     "educational books for kids",
-    "early childhood education",
-    "preschool learning activities",
+    "kids books ages 2-6",
+    "preschool learning books",
     "interactive books for toddlers",
     "child development books",
-    "ages 2-6 learning",
-    "kids story books",
-    "educational content for children",
+    "early childhood education",
     "learning adventures",
+    "magical stories for kids",
+    "educational activities",
     "play-based learning",
-    "early literacy",
-    "kindergarten readiness",
-    "email signup kids books",
-    "notify me launch",
+    "kindergarten preparation",
+    "toddler books",
+    "kids educational content",
+    "early literacy development",
+    "instagram playlearno",
+    "youtube playlearno",
     "waitlist educational books",
   ],
   type: "website",
@@ -32,11 +34,11 @@ export const metadata: Metadata = generateMetadata({
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-indigo-50 via-white to-cyan-50 relative overflow-hidden">
+    <div className="min-h-screen bg-gradient-to-br from-orange-50 via-yellow-50 to-amber-50 relative overflow-hidden">
       <BackgroundElements />
 
       {/* Main content container */}
-      <div className="relative z-10 min-h-screen flex items-center justify-center p-8">
+      <div className="relative z-10 min-h-screen flex items-center justify-center p-4 lg:p-8">
         <MainContent />
       </div>
     </div>
